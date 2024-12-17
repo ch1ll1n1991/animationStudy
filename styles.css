@@ -109,7 +109,7 @@ body {
 }
 
 /* レスポンシブ対応 */
-@media (max-width: 768px) {
+/*@media (max-width: 768px) {
   .nav .menu {
     display: none;
     flex-direction: column;
@@ -128,3 +128,4 @@ body {
     display: flex;
   }
 }
+*/
