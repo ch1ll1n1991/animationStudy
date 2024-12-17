@@ -93,7 +93,7 @@ body {
 }
 
 /* ハンバーガーメニュー */
-.hamburger {
+/*.hamburger {
   display: none;
   flex-direction: column;
   gap: 5px;
